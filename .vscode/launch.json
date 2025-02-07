@@ -2,24 +2,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "RUN file 2",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "cwd": "${workspaceFolder}/${relativeFileDirname}"
+        },
+        {
             //-- Nombre de la configuracion
             "name": "RUN file",
-
             //-- Depurador de Python
             "type": "debugpy",
-
             //-- Lanzar el depurador
             "request": "launch",
-
             //-- Programa a depurar: Fichero en la pestaña activa
             "program": "${file}",
-            
             //-- Dónde lanzar el depurador
             "console": "internalConsole",
-           
             //-- Depurar sólo el código del usuario (no del sistema)
             "justMyCode": true,
-
             //-- Directorio de trabajo donde ejecutar el programa
             "cwd": "${workspaceFolder}/${relativeFileDirname}"
         }

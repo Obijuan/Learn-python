@@ -6,7 +6,12 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal",
+
+            //-- Terminal ejecutar el programa
+            "console": "externalTerminal",
+            //"console": "integratedTerminal",
+            //"console": "internalConsole",
+
             "justMyCode": true,
             "cwd": "${workspaceFolder}/${relativeFileDirname}"
         },

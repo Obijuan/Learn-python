@@ -4,30 +4,20 @@
 import colorama
 
 
-def test    (    )    :
+def test():
+
+    print("Mensaje 1")
+    print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("Mensaje 2")
+    print("──────────────────────────────")
 
 
+print("══════════════════════════════")
+print(f"{colorama.Fore.RED}Hola mundo en rojo...")
+for i in range(4, 20, 2):
+    print(i)
 
-    print      (     "Mensaje 1"    )
-    print(   "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"   )
-    print      (   "Mensaje 2")   
-    print   (      "──────────────────────────────"     )
-print(        "══════════════════════════════"    )
-print(  f"{colorama.Fore.RED}Hola mundo en rojo..."    )
-for i   in   range(4,20,2)    :
-    print(    i    )
-
-test (     )
+test()
 
 
-
-
-print(   "──────────────────────────────"     )
-
-
-
-
-
-
-
-
+print("──────────────────────────────")

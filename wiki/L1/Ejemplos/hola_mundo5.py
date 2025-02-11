@@ -4,9 +4,9 @@
 
 print("══════════════════════════════")
 
-#-- Variable i va de 4 a 20, de 2 en 2 
-#-- (El ultimo valor no se incluye)
-for i in range(4,20, 2):
+# -- Variable i va de 4 a 20, de 2 en 2
+# -- (El ultimo valor no se incluye)
+for i in range(4, 20, 2):
     print(i)
 
 print("──────────────────────────────")

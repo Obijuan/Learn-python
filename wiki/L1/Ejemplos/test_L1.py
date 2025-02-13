@@ -19,7 +19,7 @@ class TestL1(unittest.TestCase):
         self.assertEqual(a, 1)
         print("✅ Test 2: OK")
 
-    def test_var_fail(self):
+    def test_fail(self):
         # -- Este test siempre falla
         self.assertFalse(True)
         print("✅ Test 3: OK")

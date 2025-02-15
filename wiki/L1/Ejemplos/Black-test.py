@@ -1,5 +1,5 @@
 # ──────────────────────────────────────────────────────
-# ── Programa de prueba para Black (sin formateear) ───
+# ── Programa de prueba para Black (sin formatear) ───
 # ──────────────────────────────────────────────────────
 import colorama
 

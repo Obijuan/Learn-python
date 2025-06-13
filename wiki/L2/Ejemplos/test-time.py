@@ -17,7 +17,6 @@ print("hola")
 # -- Esperar otro segundo
 time.sleep(1)
 
-
 # -- Imprimir tercer mensaje
 print("hola")
 

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="247.77788mm"
+   height="203.04547mm"
+   viewBox="0 0 247.77788 203.04547"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (7335b4f457, 2025-06-11)"
+   sodipodi:docname="string-methods-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0203072"
+     inkscape:cx="467.99632"
+     inkscape:cy="383.70798"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(24.733801,-37.172417)">
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.529167"
+       id="rect83"
+       width="247.77788"
+       height="203.04547"
+       x="-24.733801"
+       y="37.172417" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(24.733801,-37.172417)">
+    <rect
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+       id="rect84"
+       width="233.41707"
+       height="187.25137"
+       x="-17.5534"
+       y="47.096294" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke-width:0.529167"
+       x="23.650148"
+       y="56.517242"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.529167"
+         x="23.650148"
+         y="56.517242">Método</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="23.701038"
+       y="67.868393"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="23.701038"
+         y="67.868393">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan6">upper()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke-width:0.529167"
+       x="88.454994"
+       y="56.517242"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.529167"
+         x="88.454994"
+         y="56.517242">Resultado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="88.559685"
+       y="67.868393"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="88.559685"
+         y="67.868393">&quot;HOLA&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke-width:0.529167"
+       x="150.92491"
+       y="56.517242"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke-width:0.529167"
+         x="150.92491"
+         y="56.517242">Descripción</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="150.41576"
+       y="67.868393"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="150.41576"
+         y="67.868393">Pasar a mayúsculas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="23.701038"
+       y="80.346542"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="23.701038"
+         y="80.346542">&quot;HOLA&quot;.<tspan
+   style="fill:#008000"
+   id="tspan8">lower()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="87.908012"
+       y="79.73542"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="87.908012"
+         y="79.73542">&quot;hola&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="150.41577"
+       y="79.73542"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="150.41577"
+         y="79.73542">Pasar a minúsculas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="23.701038"
+       y="94.611206"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="23.701038"
+         y="94.611206">&quot;  hola   &quot;.<tspan
+   style="fill:#008000"
+   id="tspan12">strip()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="87.908012"
+       y="95.15387"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="87.908012"
+         y="95.15387">&quot;hola&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.4712;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text15"
+       transform="translate(18.599681,-8.4976415)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan15">Eliminar caracteres en blanco
+</tspan><tspan
+         x="104.70952"
+         y="106.57246"
+         id="tspan19">iniciales y finales</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="25.483408"
+       y="111.07256"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="25.483408"
+         y="111.07256">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan16">starswith(<tspan
+   style="fill:#1a1a1a"
+   id="tspan20">'ho'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="88.038765"
+       y="111.07256"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="88.038765"
+         y="111.07256">True</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.4712;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text19"
+       transform="translate(18.599681,12.362064)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan34">Comprobar si comienza por la </tspan><tspan
+         x="104.70952"
+         y="106.57246"
+         id="tspan35">cadena indicada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="25.483408"
+       y="121.48769"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="25.48341"
+         y="121.48769">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan22">starswith(<tspan
+   style="fill:#1a1a1a"
+   id="tspan21">'hi'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="87.806656"
+       y="121.51056"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="87.806656"
+         y="121.51056">False</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="25.280724"
+       y="134.439"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="25.280724"
+         y="134.439">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan26">endswith(<tspan
+   style="fill:#1a1a1a"
+   id="tspan25">'la'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="88.038765"
+       y="134.439"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="88.038765"
+         y="134.439">True</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.4712;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text29"
+       transform="translate(17.429057,34.404678)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan36">Comprobar si termina por la </tspan><tspan
+         x="104.70952"
+         y="106.57246"
+         id="tspan37">cadena indicada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="25.280724"
+       y="143.81453"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="25.280724"
+         y="143.81453">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan31">endswith(<tspan
+   style="fill:#1a1a1a"
+   id="tspan30">'hi'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="87.806656"
+       y="143.21956"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="87.806656"
+         y="143.21956">False</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="19.843506"
+       y="157.32297"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="19.843506"
+         y="157.32297">&quot;hola mundo&quot;.<tspan
+   style="fill:#008000"
+   id="tspan60">split()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="90.948219"
+       y="157.36873"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="90.948219"
+         y="157.36873">['hola', 'mundo']</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="20.039656"
+       y="166.73344"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="20.039656"
+         y="166.73344">&quot;hola-mundo&quot;.<tspan
+   style="fill:#008000"
+   id="tspan61">split()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="90.515419"
+       y="167.86455"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="90.515419"
+         y="167.86455">[&quot;hola-mundo&quot;]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.4712;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text49"
+       transform="translate(18.730447,67.26468)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan38">Separar una cadena</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="22.413004"
+       y="177.27504"
+       id="text51"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="22.413006"
+         y="177.27504">&quot;hola-mundo&quot;.<tspan
+   style="fill:#008000"
+   id="tspan62">split(<tspan
+   style="fill:#000000"
+   id="tspan63">'-'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="90.515419"
+       y="177.29793"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="90.515419"
+         y="177.29793">['hola', 'mundo']</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="22.413004"
+       y="190.36491"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="22.413004"
+         y="190.36491">&quot;*&quot;.<tspan
+   style="fill:#008000"
+   id="tspan59">join(</tspan>['uno', 'dos']<tspan
+   style="fill:#008000"
+   id="tspan64">)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:92.4712;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text57"
+       transform="translate(17.559823,90.330608)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan39">Unir cadenas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="85.084099"
+       y="190.3878"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan58"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="85.084099"
+         y="190.3878">&quot;uno*dos&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="22.413002"
+       y="207.15977"
+       id="text67"><tspan
+         sodipodi:role="line"
+         id="tspan67"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="22.413004"
+         y="207.15977">&quot;hola&quot;.<tspan
+   style="fill:#008000"
+   id="tspan66">replace(<tspan
+   style="fill:#000000"
+   id="tspan65">'la', 'py'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:74.0406;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text68"
+       transform="translate(17.559823,103.40739)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan40">Reemplazar una </tspan><tspan
+         x="104.70952"
+         y="106.57246"
+         id="tspan41">subcadena por otra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="85.084099"
+       y="207.15977"
+       id="text69"><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="85.084099"
+         y="207.15977">&quot;hopy&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="20.422165"
+       y="223.13185"
+       id="text72"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="20.422165"
+         y="223.13185">&quot;hola mundo&quot;.<tspan
+   style="fill:#008000"
+   id="tspan71">find(<tspan
+   style="fill:#000000"
+   id="tspan70">'xx'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:74.0406;display:inline;fill:#000000;stroke-width:0.529167"
+       x="104.70952"
+       y="100.03432"
+       id="text73"
+       transform="translate(17.559823,126.34651)"><tspan
+         x="104.70952"
+         y="100.03432"
+         id="tspan42">Encontrar una subcadena</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="85.665985"
+       y="223.15147"
+       id="text74"><tspan
+         sodipodi:role="line"
+         id="tspan74"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="85.665985"
+         y="223.15147">-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="23.547398"
+       y="230.9706"
+       id="text77"><tspan
+         sodipodi:role="line"
+         id="tspan77"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="23.547398"
+         y="230.9706">&quot;hola mundo&quot;.<tspan
+   style="fill:#008000"
+   id="tspan76">find(<tspan
+   style="fill:#000000"
+   id="tspan75">'mun'</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.53815px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       x="85.665985"
+       y="230.99022"
+       id="text79"><tspan
+         sodipodi:role="line"
+         id="tspan79"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.529167"
+         x="85.665985"
+         y="230.99022">5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none"
+       d="M -17.5534,59.551722 H 215.86367"
+       id="path84" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 62.586207,47.096294 V 235.01489"
+       id="path85" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M 117.89775,47.096294 V 235.01489"
+       id="path86" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,71.314137 H 215.86367"
+       id="path87" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,83.161545 H 215.86367"
+       id="path88" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,102.15104 H 215.86367"
+       id="path89" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,126.00843 H 215.86367"
+       id="path90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,148.33527 H 215.86367"
+       id="path91" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,181.87651 H 215.86367"
+       id="path92" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,194.95656 H 215.86367"
+       id="path93" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -17.5534,214.60094 H 215.86367"
+       id="path94" />
+  </g>
+</svg>

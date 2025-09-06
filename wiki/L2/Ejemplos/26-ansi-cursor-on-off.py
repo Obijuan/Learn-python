@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import time
 
 # ───────────────────────────────────────
 #            CODIGOS ANSI
@@ -12,6 +13,12 @@ CLEAR = "\x1b[2J"
 
 # ── CLS: Borrar la pantalla y llevar cursor a home
 CLS = CLEAR + HOME
+
+# ── Ocultar el cursor
+CURSOR_OFF = "\x1b[?25l"
+
+# ── Mostrar el cursor
+CURSOR_ON = "\x1b[?25h"
 
 # ─────────── COLORES DE LA TINTA ───────────
 # ── Colores normales
@@ -53,14 +60,20 @@ DEFAULT = "\x1B[0m"
 # ──────────────────────
 # MAIN
 # ──────────────────────
-# ── Establecer el fondo azul y tinta blanca
-print(BACK_BLUE + LWHITE, end='', flush=True)
 
 # ── Borrar pantalla
 print(CLS, end='', flush=True)
 
-# ── Imprimir mensajes
-print("Hola, probando...")
+# Ocultar el cursor
+print(CURSOR_OFF)
+
+# ── Imprimir mensaje
+print("El cursor está oculto....")
+time.sleep(3)
+
+# Mostrar el cursor
+print(CURSOR_ON)
+print("El cursor está visible")
 
 # ── Volver a los atributos normales
 print(DEFAULT)

@@ -64,16 +64,14 @@ DEFAULT = "\x1B[0m"
 # ── Borrar pantalla
 print(CLS, end='', flush=True)
 
-# Ocultar el cursor
-print(CURSOR_OFF)
-
 # ── Imprimir mensaje
-print("El cursor está oculto....")
+print("El cursor está visible: ", end='', flush=True)
 time.sleep(3)
 
-# Mostrar el cursor
-print(CURSOR_ON)
-print("El cursor está visible")
+# ── Ocultar el cursor
+print(CURSOR_OFF)
+print("El cursor está oculto...", end='', flush=True)
+time.sleep(3)
 
-# ── Volver a los atributos normales
-print(DEFAULT)
+# ── Enseñar el cursor antes de terminar
+print(CURSOR_ON)

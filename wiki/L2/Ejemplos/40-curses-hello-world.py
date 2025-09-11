@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# ──────────────────────────────────────────────────────
+# ── Pruebas del modulo CURSES
+# ── Ejemplo HOLA-MUNDO
+# ──────────────────────────────────────────────────────
 import curses
 
 # ── Crear una ventana nueva, encima del terminal actual

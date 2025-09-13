@@ -12,7 +12,7 @@ import ansi
 # ── El paso consiste en imprimir un asterisco y esperar un segundo
 # ──────────────────────────────────────────────────────────────────
 def paso():
-    # ── Imprimir un asterisco
+    # ── Imprimir un carácter átomo de la barra
     print(f'{ansi.BLUE}█{ansi.DEFAULT}', end='', flush=True)
 
     # ── Pausa
